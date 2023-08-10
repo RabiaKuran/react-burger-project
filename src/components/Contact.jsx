@@ -16,7 +16,7 @@ const Contact = () => {
           <input
             type="email"
             name="email"
-            placeholder="Lütfen emeilinizi giriniz..."
+            placeholder="Lütfen emailinizi giriniz..."
           />
           <label>Email</label>
           <input
